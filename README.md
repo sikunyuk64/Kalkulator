@@ -1,5 +1,5 @@
 # Kalkulator
-Kalkulator sederhana dengan menggunakan bahasa pemrograman Python.
+<p>Kalkulator sederhana dengan menggunakan bahasa pemrograman Python.</p>
 <img src="https://github.com/sikunyuk64/Kalkulator/blob/main/Screenshoot/Screenshot%20(238).png" width="348" height="322">
 <div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>git clone https://github.com/sikunyuk64/Kalkulator.git
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">

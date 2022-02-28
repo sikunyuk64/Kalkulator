@@ -1,5 +1,6 @@
 # Kalkulator
 Kalkulator sederhana dengan menggunakan bahasa pemrograman Python.
+<img src="https://github.com/sikunyuk64/Kalkulator/blob/main/Screenshoot/Screenshot%20(238).png" width="350" height="175">
 <div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>git clone https://github.com/sikunyuk64/Kalkulator.git
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="https://github.com/sikunyuk64/Kalkulator.git" tabindex="0" role="button">
